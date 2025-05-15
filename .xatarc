@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Harshbajani-s-workspace-ocvav2.eu-central-1.xata.sh/db/snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
