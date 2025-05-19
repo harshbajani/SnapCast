@@ -65,7 +65,7 @@ const Page = () => {
         return;
       }
       if (!formData.title || formData.description) {
-        setError("Please in all the details");
+        setError("Please fill in all the details");
         return;
       }
       // get upload url
